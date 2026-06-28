@@ -1,6 +1,6 @@
 # `@repo/ui`
 
-`@repo/ui` is the shared shadcn-svelte UI package for the SvelteKit apps and any Astro Svelte islands in this monorepo.
+`@repo/ui` is the shared shadcn-svelte UI package for the SvelteKit apps in this monorepo.
 
 ## Public exports
 
@@ -40,17 +40,3 @@ Use shared components from the package root or specific component entrypoints:
 
 <Button>Save</Button>
 ```
-
-## Usage in Astro
-
-The website uses Astro with `@astrojs/svelte`, so shared Svelte components can be rendered as Astro framework components:
-
-```astro
----
-import { Button } from '@repo/ui';
----
-
-<Button>Learn more</Button>
-```
-
-Import `@repo/ui/styles/globals.css` from the website's global stylesheet.

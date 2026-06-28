@@ -2,5 +2,5 @@
 
 Project documentation for this template repo.
 
-- `ui-package.md` — how `@repo/ui` works, what it exports, and how SvelteKit/Astro apps should consume it.
+- `ui-package.md` — how `@repo/ui` works, what it exports, and how SvelteKit apps should consume it.
 - `agents/` — reusable agent workflow notes for issue tracking, triage labels, and domain documentation.
