@@ -1,0 +1,121 @@
+{
+	"version": 1,
+	"skills": {
+		"agent-device": {
+			"source": "callstackincubator/agent-device",
+			"sourceType": "github",
+			"computedHash": "a3e0f398bae8ee57f4bb9cf0ae6f7f8cf322cd300b8894ab08c4df3edb7fe96e"
+		},
+		"better-auth-best-practices": {
+			"source": "better-auth/skills",
+			"sourceType": "github",
+			"computedHash": "a4c830509e85557b59339d8d93a4e243e9e59c686e7678854d39230e12c2a6dc"
+		},
+		"building-native-ui": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "342df93f481a0dba919f372d6c7b40d2b4bf5b51dd24363aea2e5d0bae27a6fa"
+		},
+		"convex-best-practices": {
+			"source": "waynesutton/convexskills",
+			"sourceType": "github",
+			"computedHash": "3b24d2afbb5859e3a3640c1e47e2ac9ace81e9737ec76b891951999361c92ab1"
+		},
+		"convex-create-component": {
+			"source": "get-convex/agent-skills",
+			"sourceType": "github",
+			"computedHash": "d110fca7f65b4919367e6fc63a93bf54abea2cf5e4e097234c947559ffa6e527"
+		},
+		"convex-setup-auth": {
+			"source": "get-convex/agent-skills",
+			"sourceType": "github",
+			"computedHash": "e719d31d1ab0d19ca7b942d1154d3ff436b5c156900eea9866c2aaeb910a1388"
+		},
+		"create-auth-skill": {
+			"source": "better-auth/skills",
+			"sourceType": "github",
+			"computedHash": "31c027d02dbf1faa37f58191f574b9443143042fb2b684fe32df53ab0270487c"
+		},
+		"diagnose": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/engineering/diagnose/SKILL.md",
+			"computedHash": "15939a26f86edec2d4862042b8564e5a062cb81d04e047a0cea6305c8830b5f5"
+		},
+		"emil-design-eng": {
+			"source": "emilkowalski/skill",
+			"sourceType": "github",
+			"computedHash": "8bdf9e4e6de7a4969147bf4828a4ad2c5aacd9fba4b690b250a85e0467ca387d"
+		},
+		"expo-api-routes": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "015c6b849507fda73fcc32d2448f033aaaaa21f5229085342b8421727a90cafb"
+		},
+		"expo-cicd-workflows": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "700b20b575fcbe75ad238b41a0bd57938abe495e62dc53e05400712ab01ee7c0"
+		},
+		"expo-dev-client": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "234e2633b7fbcef2d479f8fe8ab20d53d08ed3e4beec7c965da4aff5b43affe7"
+		},
+		"expo-tailwind-setup": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "d39e806942fe880347f161056729b588a3cb0f1796270eebf52633fe11cfdce1"
+		},
+		"grill-me": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/productivity/grill-me/SKILL.md",
+			"computedHash": "784f0dbb7403b0f00324bce9a112f715342777a0daee7bbb7385f9c6f0a170ea"
+		},
+		"grill-with-docs": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+			"computedHash": "31a5b1ae116558bf7d3f633f442835f54bd7645923d4f45c7823e52a97317666"
+		},
+		"improve-codebase-architecture": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+			"computedHash": "c77b86b4332919499608f9af1880074e1fec65a59b95c70c27a9f39cd137865e"
+		},
+		"native-data-fetching": {
+			"source": "expo/skills",
+			"sourceType": "github",
+			"computedHash": "3cd0ba91f359f9f84cd40f36f356287994a0e952520fac6e03ef7952d0397879"
+		},
+		"organization-best-practices": {
+			"source": "better-auth/skills",
+			"sourceType": "github",
+			"computedHash": "79a5a85b43d10e9fe37582b3506b051a33a991817b938f349099baa5ddba21aa"
+		},
+		"react-native-best-practices": {
+			"source": "callstackincubator/agent-skills",
+			"sourceType": "github",
+			"computedHash": "bad5e73a1c3ddca2ed4bcd93b05ff913e8f9cc5495feacc3717c69e07fee540f"
+		},
+		"setup-matt-pocock-skills": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+			"computedHash": "3a32f8f1ed8160c9d286a2aabe88ee9b884c6f3f88a7a6c47b7d5d552c959587"
+		},
+		"to-issues": {
+			"source": "mattpocock/skills",
+			"sourceType": "github",
+			"skillPath": "skills/engineering/to-issues/SKILL.md",
+			"computedHash": "73a91f30784523aa59ec9b02769576ebfc738e2cd5ad8f6441076031f0a5d5ac"
+		},
+		"uniwind": {
+			"source": "uni-stack/uniwind",
+			"sourceType": "github",
+			"computedHash": "76e8e9be3a60fe60d9229c7a0c6e4c30bdde2e23ff377dbfa827b80226bd4d89"
+		}
+	}
+}
